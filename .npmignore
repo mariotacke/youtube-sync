@@ -1,2 +1,3 @@
+.eslintrc
+.gitattributes
 .npmignore
-.eslintrc,json
