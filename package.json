@@ -4,11 +4,11 @@
   "description": "Youtube Sync downloads Youtube videos as audio files by subscribing to playlist RSS feeds",
   "main": "index.js",
   "bin": {
-      "youtube-sync": "./bin/youtube-sync.js"
+    "youtube-sync": "./bin/youtube-sync.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mariotacke/youtube-sync.git"  
+    "url": "https://github.com/mariotacke/youtube-sync.git"
   },
   "keywords": [
     "youtube",

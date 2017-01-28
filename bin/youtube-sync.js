@@ -6,8 +6,8 @@ const argv = require('minimist')(process.argv.slice(2));
 const sync = require('../');
 
 if (!argv._.length) {
-    console.log('Please specify a playlist id');
-    process.exit(1);
+  console.log('Please specify a playlist id');
+  process.exit(1);
 }
 
 const options = {};
